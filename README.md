@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas hagras</h1>
 <h3 align="center">I am a full stack software engineer specializing in the React and Django stack.</h3>
 
-- 🔭 I’m currently working on [Packages APP](https://waheed.sa/)
-
 - 🌱 I’m currently learning **CI / CD**
 
 - 💬 Ask me about **React, Django, Databases, Python**
